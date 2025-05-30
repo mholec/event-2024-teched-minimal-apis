@@ -1,6 +1,6 @@
-# TechEd 2024 - Minimal APIs Ukázka
+# TechEd 2024 - Minimal APIs
 
-Tento repository obsahuje ukázkové aplikace pro konferenci TechEd 2024 demonstrující různé aspekty a možnosti ASP.NET Core Minimal APIs v .NET 8.
+Repository obsahuje ukázkové aplikace pro konferenci TechEd 2024 demonstrující různé aspekty a možnosti ASP.NET Core Minimal APIs v .NET 8.
 
 ## Přehled projektů
 
@@ -162,10 +162,4 @@ curl -X POST "https://localhost:5001/api/products" \
 - Pipeline behaviors pro middleware logic
 - Polymorfní serializace pro flexibilní API
 
-## Licence
-
-Tento projekt je licencován pod MIT licencí. Viz [LICENSE](LICENSE) soubor pro více informací.
-
-## TechEd 2024
-
-Tento kód byl vytvořen jako demonstrace pro konferenci TechEd 2024 a slouží jako ukázka best practices pro práci s ASP.NET Core Minimal APIs v .NET 8.
+Generováno automaticky pomocí GitHub Copilot.
