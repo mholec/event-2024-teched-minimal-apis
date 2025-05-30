@@ -1,5 +1,8 @@
 # TechEd 2024 - Minimal APIs
 
+> [!NOTE]  
+> Níže uvedená dokumentace k projektu je automaticky generovaná službou GitHub Copilot.
+
 Repository obsahuje ukázkové aplikace pro konferenci TechEd 2024 demonstrující různé aspekty a možnosti ASP.NET Core Minimal APIs v .NET 8.
 
 ## Přehled projektů
@@ -161,5 +164,3 @@ curl -X POST "https://localhost:5001/api/products" \
 - MediatR pro CQRS
 - Pipeline behaviors pro middleware logic
 - Polymorfní serializace pro flexibilní API
-
-Generováno automaticky pomocí GitHub Copilot.
